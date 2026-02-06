@@ -1,0 +1,6 @@
+Alter,Geschlecht,BMI,Blutdruck_sys,Cholesterin,Raucher,Diagnose
+45,m,28.4,145,230,1,krank
+32,w,22.1,118,180,0,gesund
+61,m,30.2,160,260,1,krank
+27,w,20.5,110,170,0,gesund
+53,w,26.8,138,215,1,krank
